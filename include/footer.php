@@ -8,7 +8,7 @@
         </h6>
       </div>
 
-      <div class="col-md-2 ml-lg-4 ml-md-0 mt-4 mt-lg-0">
+      <div class="col-md-2 mt-4 mt-lg-0">
         <p class="footer-header text-uppercase">
           SERVICES
         </p>
@@ -60,7 +60,7 @@
         </h6>
       </div>
 
-      <div class="col-md-2 mt-4 mt-lg-0">
+      <div class="col-md-3 mt-4 mt-lg-0">
         <p class="footer-header text-uppercase">
           Resources
         </p>
@@ -80,6 +80,12 @@
         <h6 class="clr-gray">
           <a href="#" class="clr-gray">Privacy Policy</a>
         </h6>
+
+        <div class="mt-5">
+          <a href="#"><img src="img/icons/facebook.svg" alt="" class="soc-img mr-3"></a>
+          <a href="#"><img src="img/icons/twitter.svg" alt="" class="soc-img mr-3 "></a>
+          <a href="#"><img src="img/icons/linkedin.svg" alt="" class="soc-img"></a>
+        </div>
       </div>
     </div>
   </div>
