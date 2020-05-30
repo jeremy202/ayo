@@ -286,36 +286,6 @@
               <p class="slick-p clr-white">Our Vessel Management division is responsible for the Company’s ship management and chartering businesses. …Read More</p>
             </div>
           </div>
-          <div class="sli-slide">
-            <div class="c-img-overlay"></div>
-            <img src="img/company.png" class="img-fluid w-100">
-            <div class="slick-text">
-              <h2 class="clr-white">
-                MARINE
-              </h3>
-              <p class="slick-p clr-white">Our Vessel Management division is responsible for the Company’s ship management and chartering businesses. …Read More</p>
-            </div>
-          </div>
-          <div class="sli-slide">
-            <div class="c-img-overlay"></div>
-            <img src="img/company.png" class="img-fluid w-100">
-            <div class="slick-text">
-              <h2 class="clr-white">
-                MARINE
-              </h3>
-              <p class="slick-p clr-white">Our Vessel Management division is responsible for the Company’s ship management and chartering businesses. …Read More</p>
-            </div>
-          </div>
-          <div class="sli-slide">
-            <div class="c-img-overlay"></div>
-            <img src="img/company.png" class="img-fluid w-100">
-            <div class="slick-text">
-              <h2 class="clr-white">
-                MARINE
-              </h3>
-              <p class="slick-p clr-white">Our Vessel Management division is responsible for the Company’s ship management and chartering businesses. …Read More</p>
-            </div>
-          </div>
         </div>
       </div>
 
