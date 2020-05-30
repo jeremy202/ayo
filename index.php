@@ -258,7 +258,7 @@
         <div class="autoplay">
           <div class="sli-slide">
             <div class="c-img-overlay"></div>
-            <img src="img/company.png" class="img-fluid w-100">
+            <img src="img/oil-emmergency.jpg" class="img-fluid w-100">
             <div class="slick-text">
               <h2 class="clr-white">
                 OIL SPILL EMERGENCY RESPONSE
@@ -268,7 +268,7 @@
           </div>
           <div class="sli-slide">
             <div class="c-img-overlay"></div>
-            <img src="img/company.png" class="img-fluid w-100">
+            <img src="img/engineering.jpg" class="img-fluid w-100">
             <div class="slick-text">
               <h2 class="clr-white">
                 ENGINEERING & FABRICATION
@@ -278,7 +278,7 @@
           </div>
           <div class="sli-slide">
             <div class="c-img-overlay"></div>
-            <img src="img/company.png" class="img-fluid w-100">
+            <img src="img/marine.jpg" class="img-fluid w-100">
             <div class="slick-text">
               <h2 class="clr-white">
                 MARINE
