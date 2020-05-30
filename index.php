@@ -17,10 +17,11 @@
   </head>
 
   <body>
-    <!-- Header -->
-    <?php
-    include "include/header.php"   
-    ?>
+      <!-- Header -->
+      <?php
+      $home = 'active';
+      include "include/header.php"   
+      ?>
 
     <section id="hero">
       <div class="container">
@@ -57,7 +58,7 @@
           <div class="col-md-7">
             <div class="row ml-md-0 ml-lg-5">
               <div class="col-md-8">
-                <p class="clr-dk-red">
+                <p class="clr-pink">
                   Our range of materials provide solutions for containment, waterproofing and protection for ambitious companies in advancing industries.
                 </p>
               </div>
@@ -65,7 +66,7 @@
           </div>
         </div>
 
-        <div class="row ml-lg-5 ml-md-0 mt-5">
+        <div class="row mt-5">
           <div class="col-md-4">
             <div class="gal-card">
               <div class="gal-card-img">
@@ -79,7 +80,7 @@
                 <p>
                   For primary/secondary commercial containment, military inflatable boats, docks/doors, waterproofing and water protection/preservation geomembranes.
                 </p>
-                <a href="#" class="links text-uppercase">read more</a>
+                <a href="products" class="links text-uppercase">read more</a>
               </div>
             </div>
           </div>
@@ -97,7 +98,7 @@
                 <p>
                   For the commercial roofing — The Cooley high-performance single-ply roofing membranes have been private-labeled by the leading building materials suppliers in the world.
                 </p>
-                <a href="#" class="links text-uppercase">read more</a>
+                <a href="products" class="links text-uppercase">read more</a>
               </div>
             </div>
           </div>
@@ -115,7 +116,7 @@
                 <p>
                   Cooley/Commercial Graphics develops the most innovative products and sustainable solutions for the print media industry — for billboards too banners and wallpapers.
                 </p>
-                <a href="#" class="links text-uppercase">read more</a>
+                <a href="products" class="links text-uppercase">read more</a>
               </div>
             </div>
           </div>
@@ -141,7 +142,7 @@
           </div>
         </div>
 
-        <div class="row ml-lg-5 ml-md-0 mt-5">
+        <div class="row mt-5">
           <div class="col-md-3">
             <img src="img/1.png" alt="" class="img-fluid">
             <p class="clr-gray mt-2">Commercial containment</p>
@@ -163,7 +164,7 @@
           </div>
         </div>
 
-        <div class="row ml-lg-5 ml-md-0 mt-3">
+        <div class="row mt-3">
           <div class="col-md-3">
             <img src="img/5.png" alt="" class="img-fluid">
             <p class="clr-gray mt-2">General Industrial</p>
@@ -185,7 +186,7 @@
           </div>
         </div>
 
-        <div class="row ml-lg-5 ml-md-0 mt-3">
+        <div class="row mt-3">
           <div class="col-md-3">
             <img src="img/9.png" alt="" class="img-fluid">
             <p class="clr-gray mt-2">Technical texiles</p>
@@ -273,6 +274,36 @@
                 ENGINEERING & FABRICATION
               </h3>
               <p class="slick-p clr-white">Galembic International Limited is focused at Heavy Structural, MetalPlate Welding, and Custom Fabrications….Read More</p>
+            </div>
+          </div>
+          <div class="sli-slide">
+            <div class="c-img-overlay"></div>
+            <img src="img/company.png" class="img-fluid w-100">
+            <div class="slick-text">
+              <h2 class="clr-white">
+                MARINE
+              </h3>
+              <p class="slick-p clr-white">Our Vessel Management division is responsible for the Company’s ship management and chartering businesses. …Read More</p>
+            </div>
+          </div>
+          <div class="sli-slide">
+            <div class="c-img-overlay"></div>
+            <img src="img/company.png" class="img-fluid w-100">
+            <div class="slick-text">
+              <h2 class="clr-white">
+                MARINE
+              </h3>
+              <p class="slick-p clr-white">Our Vessel Management division is responsible for the Company’s ship management and chartering businesses. …Read More</p>
+            </div>
+          </div>
+          <div class="sli-slide">
+            <div class="c-img-overlay"></div>
+            <img src="img/company.png" class="img-fluid w-100">
+            <div class="slick-text">
+              <h2 class="clr-white">
+                MARINE
+              </h3>
+              <p class="slick-p clr-white">Our Vessel Management division is responsible for the Company’s ship management and chartering businesses. …Read More</p>
             </div>
           </div>
           <div class="sli-slide">

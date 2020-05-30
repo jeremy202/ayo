@@ -34,7 +34,7 @@ h1 {
   }
 }
 h2 {
-  font-size: 32px;
+  font-size: 36px;
 }
 @media only screen and (max-width: 568px) {
   h2 {
@@ -74,6 +74,9 @@ h6 {
 .navbar-light .navbar-nav .nav-link:focus {
   color: #77787B;
 }
+.nav-br .active {
+  color: #ED3237 !important;
+}
 .btn {
   font-family: 'sofia-pro',sans-serif;
   font-weight: 700;
@@ -99,6 +102,9 @@ h6 {
   background: #ffffff;
   transition: 0.3s ease-in-out;
   border: 1px solid #ED3237;
+}
+.btn-more:hover {
+  color: #363739;
 }
 a {
   font-family: 'sofia-pro',sans-serif;
@@ -136,10 +142,15 @@ h6 a:hover {
 .clr-gray {
   color: #605C5F;
 }
+.clr-gray-o {
+  color: #77787B;
+}
 .footer-last {
   color: #252627;
 }
-
+.clr-pink {
+  color: #ED1E71;
+}
 /* bg colors */
 .bg-pink {
   background: rgba(255, 251, 251, 1);

@@ -7,6 +7,10 @@
   padding-top: 290px;
   padding-bottom: 48px;
 }
+.abt-banner-content-padding {
+  padding-top: 190px;
+  padding-bottom: 90px;
+}
 /* sizing */
 .section-padding {
   padding-top: 110px;
@@ -74,6 +78,27 @@
   width: auto;
 }
 
+.bg-abt {
+  background: linear-gradient(rgba(0, 0, 0, .7),rgba(0, 0, 0, .7)), url(../img/bg-commitment.jpg);
+	background-size: cover;
+  background-repeat: no-repeat;
+}
+.com-padding {
+  padding-top: 132px;
+  padding-bottom: 132px;
+}
+.abs-quote-img {
+  position: absolute;
+  top: -56px;
+  left: -62px;
+}
+
+/* products */
+.products-banner-padding {
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
 /* responsive */
 @media only screen and (max-width: 768px) {
   .banner-content-padding {
@@ -86,5 +111,13 @@
   }
   .ab-img-main{
     display: none;
+  }
+  .com-padding {
+    padding: 75px 20px;
+  }
+  .abs-quote-img {
+    position: absolute;
+    top: -53px;
+    left: 0px;
   }
 }
